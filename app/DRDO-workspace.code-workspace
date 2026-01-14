@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../rpas"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../DRDOProject/fullprojecteval"
+		}
+	],
+	"settings": {}
+}

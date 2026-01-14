@@ -44,7 +44,7 @@ export default function Home() {
             v3.0.0
           </span>
           <span className="bg-white/50 px-3 py-1 rounded-full border border-white/60 shadow-sm">
-            📅 Update: 13 มกราคม 2568
+            📅 Update: 14 มกราคม 2569
           </span>
         </div>
       </div>
