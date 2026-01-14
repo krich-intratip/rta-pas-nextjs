@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../../../DRDOProject/fullprojecteval"
+		},
+		{
+			"path": "../../../DRDOProject/ardoevalpage"
 		}
 	],
 	"settings": {}
